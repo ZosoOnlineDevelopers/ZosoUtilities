@@ -4,8 +4,7 @@
     "homepage": "https://github.com/ZosoOnlineDevelopers/ZosoUtilities.git",
     "description": "Zoso utilities, like email preparation for Postmark and Mandrillapp",
     "require": {
-        "php": "^7.1",
-        "cakephp/cakephp": "^3.0",
+        "php": "^7.0",
         "wildbit/postmark-php": "*"
     }
 }
