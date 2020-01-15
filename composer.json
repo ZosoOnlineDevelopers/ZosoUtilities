@@ -1,0 +1,8 @@
+{
+    "name": "zoso/utilities",
+    "description": "Zoso utilities, like email preparation for Postmark and Mandrillapp",
+    "require": {
+        "php": "^7.1",
+        "cakephp/cakephp": "3.*"
+    }
+}
