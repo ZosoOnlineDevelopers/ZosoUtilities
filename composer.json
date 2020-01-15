@@ -1,8 +1,11 @@
 {
     "name": "zoso/utilities",
+    "type": "utility",
+    "homepage": "https://github.com/ZosoOnlineDevelopers/ZosoUtilities.git",
     "description": "Zoso utilities, like email preparation for Postmark and Mandrillapp",
     "require": {
         "php": "^7.1",
-        "cakephp/cakephp": "3.*"
+        "cakephp/cakephp": "3.*",
+        "wildbit/postmark-php": "*"
     }
 }
