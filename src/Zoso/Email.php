@@ -9,6 +9,17 @@ use Postmark\Models\PostmarkException;
 
 class Email
 {
+    /**
+     * Static test function
+     *
+     * @return String "Hello World, Composer!"
+     */
+    public static function test()
+    {
+        return 'Hello World, Composer!';
+    }
+    
+
     protected $client = 'Postmark';
     
     //Default API key

@@ -16,7 +16,7 @@ Utility for cakephp.
     ]
     
 #### Utility in je code toevoegen
-    use App\Utility\Email;
+    use Zoso\Email;
 
 #### Utility gebruiken (Postmark)
     $email = new Email();

@@ -1,18 +1,18 @@
 {
     "name": "zoso/utilities",
+    "homepage": "https://github.com/ZosoOnlineDevelopers/ZosoUtilities.git",
     "description": "Zoso utilities, like email preparation for Postmark and Mandrillapp",
-    "type": "library",
-    "require": {
-        "php": "^7.0",
-        "wildbit/postmark-php": "^2.8"
-    },
-    "license": "MIT",
     "authors": [
         {
             "name": "Frank Sonnemans",
             "email": "frank@zoso.nl"
         }
     ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "wildbit/postmark-php": "*"
+    },
     "autoload": {
         "psr-0": {
             "Zoso": "src/"
