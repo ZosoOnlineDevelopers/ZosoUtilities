@@ -6,5 +6,13 @@
     "require": {
         "php": "^7.0",
         "wildbit/postmark-php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+        },
+        "classmap": [
+            "vendor/zoso/utilities"
+        ]
     }
 }

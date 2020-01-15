@@ -1,6 +1,9 @@
 # Zoso Utility
 Utility for cakephp.
 
+## Installation
+    composer require zoso/utilities
+
 ## Email
 
 #### Logging configuration toevoegen in je app(.default).php
