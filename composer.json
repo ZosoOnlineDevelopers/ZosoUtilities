@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^7.0",
-        "wildbit/postmark-php": "dev-master"
+        "wildbit/postmark-php": "^2.8"
     },
     "license": "MIT",
     "authors": [
