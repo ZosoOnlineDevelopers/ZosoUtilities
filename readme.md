@@ -1,4 +1,7 @@
 # Zoso Utility
+Utility for cakephp.
+
+## Email
 
 #### Logging configuration toevoegen in je app(.default).php
     'mail' => [
@@ -62,5 +65,3 @@
         ]);
         
     $emailResult = $email->sendMail();
-
-[![Build Status](https://github.com/ZosoOnlineDevelopers/ZosoUtilities)](https://github.com/ZosoOnlineDevelopers/ZosoUtilities)
