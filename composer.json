@@ -5,7 +5,7 @@
     "description": "Zoso utilities, like email preparation for Postmark and Mandrillapp",
     "require": {
         "php": "^7.1",
-        "cakephp/cakephp": "3.*",
+        "cakephp/cakephp": "^3.0",
         "wildbit/postmark-php": "*"
     }
 }
