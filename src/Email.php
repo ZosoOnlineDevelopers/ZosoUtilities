@@ -1,5 +1,5 @@
 <?php
-namespace App\Utility;
+namespace Zoso;
 
 use Cake\Network\Http\Client;
 use Cake\Log\Log;
