@@ -13,7 +13,6 @@
             "email": "frank@zoso.nl"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Zoso": "src/"
