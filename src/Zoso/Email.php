@@ -23,11 +23,11 @@ class Email
     protected $client = 'Postmark';
     
     //Default API key
-    protected $apiKey = 'ef2577e0-7ca0-4e0f-89cf-35214f05033c';
+    protected $apiKey = '';
     
     protected $subject;
         
-    protected $from = 'mail@zoso.nl';
+    protected $from = '';
     
     protected $fromName;
     
